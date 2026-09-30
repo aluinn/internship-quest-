@@ -1,0 +1,23 @@
+{
+  "name": "internship-quest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An 8-bit internship application tracker: gain XP for every application.",
+  "scripts": {
+    "dev": "concurrently -k -n server,web -c magenta,cyan \"node --watch server/index.js\" \"vite --open\"",
+    "build": "vite build",
+    "start": "vite build && node server/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "concurrently": "^10.0.5",
+    "vite": "^8.3.1"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+dist/
+# Your personal save file lives here - keep it out of git.
+data/
