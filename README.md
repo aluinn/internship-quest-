@@ -2,6 +2,11 @@
 
 An 8-bit tracker for internship applications. Every application earns XP, you level up, and an "offer power" meter fills as you apply.
 
+https://github.com/user-attachments/assets/81b5c923-e7d1-4974-bf3c-76bba3ef798f
+
+
+
+
 ## Running it
 
 Open this folder in VS Code, open the terminal (**Terminal → New Terminal**), and type:
