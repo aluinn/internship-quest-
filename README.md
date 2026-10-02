@@ -2,7 +2,7 @@
 
 An 8-bit tracker for internship applications. Every application earns XP, you level up, and an "offer power" meter fills as you apply.
 
-https://github.com/user-attachments/assets/81b5c923-e7d1-4974-bf3c-76bba3ef798f
+https://github.com/user-attachments/assets/d9499b12-bd7e-49c7-81d5-ebb5fbaa77bc
 
 
 
